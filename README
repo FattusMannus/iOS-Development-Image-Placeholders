@@ -3,45 +3,24 @@ iOS Development Placeholders
 
 
 Its a right pain having to remember all the names and dimensions of images required for iOS Development.
-
 Just download this repo and update the images and you will have all the images you need for your iPhone or iPad app.
 
-**Default-ipad.png**
+Default-ipad.png -Loading screen for iPad
 
-Loading screen for iPad
+Default.png - Loading screen for iPhone
 
-**Default.png**
+Default@2x.png - Loading screen for Retina iPad
 
-Loading screen for iPhone
+Icon-ipad.png - Icon for iPad
 
-**Default@2x.png**
+Icon.png - Icon for iPhone
 
-Loading screen for Retina iPad
+Icon@2x.png - Icon for Retina iPhone
 
-**Icon-ipad.png**
+Icon-settings.png - Icon to appear in Settings.app
 
-Icon for iPad
+Icon-spot-ipad.png - Icon to appear in spotlight on the iPad
 
-**Icon.png**
+iTunesArtwork.png - Image to appear in iTunes and on the app store
 
-Icon for iPhone
-
-**Icon@2x.png**
-
-Icon for Retina iPhone
-
-**Icon-settings.png**
-
-Icon to appear in Settings.app
-
-**Icon-spot-ipad.png**
-
-Icon to appear in spotlight on the iPad
-
-**iTunesArtwork.png**
-
-Image to appear in iTunes and on the app store
-
-**iTunesArtwork iOS6.png**
-
-Image to appear in iTunes and on the app store (Apple will soon increase to this size from iOS6 onwards)
+iTunesArtwork iOS6.png - Image to appear in iTunes and on the app store (Apple will soon increase to this size from iOS6 onwards)

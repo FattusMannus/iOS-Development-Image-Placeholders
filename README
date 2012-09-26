@@ -12,11 +12,15 @@ Default.png - Loading screen for iPhone
 
 Default@2x.png - Loading screen for Retina iPhone
 
-Default:2x-568h.png - Loading screen for iPhone 5
+Default-568h@2x.png - Loading screen for iPhone 5
 
-Default-ipad.png -Loading screen for iPad
+Default-ipad.png - Loading screen for iPad
 
+Default-ipad-landscape.png - Loading screen for iPad
 
+Default@2x-ipad.png - Loading screen for Retina iPad
+
+Default@2x-ipad-landscape.png - Loading screen for Retina iPad Landscape
 
 
 *Icons:
@@ -26,9 +30,12 @@ Icon@2x.png - Icon for Retina iPhone
 
 Icon-ipad.png - Icon for iPad
 
-Icon-settings.png - Icon to appear in Settings.app
+Icon-settings.png - Icon to appear in Settings or Spotlight for iPhone
 
-Icon-spot-ipad.png - Icon to appear in spotlight on the iPad
+Icon-settings-retina.png - Icon to appear in Settings or Spotlight for Retina iPhone
+
+Icon-settings-ipad.png - Icon to appear in Settings or Spotlight for iPad
+
 
 *Other:
 iTunesArtwork.png - Image to appear in iTunes and on the app store
